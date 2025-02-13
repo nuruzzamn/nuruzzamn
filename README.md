@@ -29,7 +29,7 @@ Software Engineer specializing in React, Next.js, and TypeScript, building scala
 💻 **Software Engineer at Ridmik Labs**, modernizing and optimizing web platforms.  
 🌍 **Passionate about Frontend & Full Stack Development**—currently expanding into backend technologies.  
 🛠️ **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, and Builderoo.  
-📌 **Exploring:** Node.js, Express, and database management for full-stack expertise.  
+📌 **Exploring:** Full-Stack Developer proficient in Node.js, Express, Laravel, and MySQL, with strong expertise in backend development, API design, and database management for scalable applications.  
 🎯 **Goal:** Build scalable, high-performance web applications and contribute to open-source projects.  
 
 ---
