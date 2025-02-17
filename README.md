@@ -75,8 +75,10 @@ Software Engineer specializing in React, Next.js, and TypeScript, building scala
 ## 📊 GitHub Stats  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuruzzamn&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuruzzamn&theme=radical" alt="GitHub Streak" height="150" /> 
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=nuruzzamn&show_icons=true&theme=radical" alt="GitHub Stats" height="150" /> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?" alt="GitHub Streak" height="150" />  -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nuruzzamn&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="150" />
+
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuruzzamn\&hide_progress=true)
