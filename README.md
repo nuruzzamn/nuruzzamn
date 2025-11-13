@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header" style="width: 100%; display: block;"/>
 </p>
 <h1 align="center">👋 I'm Md Nuruzzaman!</h1>
 <p align="center">
@@ -21,14 +21,15 @@
   </a> --> 
 </p>
 
-Software Engineer specializing in React, Next.js, and TypeScript, building scalable, high-performance applications. Passionate about full-stack development, expanding expertise in backend technologies to deliver end-to-end solutions. Seeking opportunities to contribute technical excellence and grow in a dynamic, innovative environment.
+Software Engineer with 3+ years of experience building scalable applications using React, Next.js, and TypeScript. Skilled in responsive UI development with Tailwind CSS and Bootstrap 5, and experienced in backend technologies like
+PostgreSQL, MySQL, Prisma ORM, and RESTful APIs. Adept with tools like Git, GitHub, Docker, and passionate about delivering full-stack solutions with clean, maintainable code.
 
 ---
 
 ## 🚀 About Me  
-💻 **Software Engineer at Ridmik Labs**, modernizing and optimizing web platforms.  
+💻 **Software Engineer at Zatiq**, modernizing and optimizing web platforms.  
 🌍 **Passionate about Frontend & Full Stack Development**—currently expanding into backend technologies.  
-🛠️ **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, and Builderoo.  
+🛠️ **Tech Stack:** JavaScript, TypeScript, React.js, Next.js, Redux, Zustand, HTML, CSS, Tailwind CSS, Bootstrap 5, MySQL, PostgreSQL, Prisma ORM, RESTful APIs, Git, GitHub, Docker, CI/CD pipelines, VS Code.   
 📌 **Exploring:** Full-Stack Developer proficient in Node.js, Express, Laravel, and MySQL, with strong expertise in backend development, API design, and database management for scalable applications.  
 🎯 **Goal:** Build scalable, high-performance web applications and contribute to open-source projects.  
 
@@ -63,12 +64,24 @@ Software Engineer specializing in React, Next.js, and TypeScript, building scala
 
 ## ⚡ Tech Stack  
 
-### 🚀 Frontend  
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)   
+### ⚛️ Frontend Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🧠 State Management
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-443e38?style=for-the-badge&logo=react&logoColor=white)
+
+### 🎨 Styling
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ---
 
@@ -91,7 +104,7 @@ Software Engineer specializing in React, Next.js, and TypeScript, building scala
 name: Md Nuruzzaman
 located_in: Dhaka, Bangladesh
 current_job: Software Engineer
-company: Ridmik Labs
+company:  Zatiq
 education:
   [
     "Self-Taught Developer and Designer",
@@ -110,17 +123,18 @@ fields_of_interests:
 technical_background:
   [
     "Full Stack Developer"
+    "Software Engineer @Zatiq"
     "Software Engineer @Ridmik Labs"
     "Software Engineer (Part-Time) @Palamou",
   ]
   
-currently_learning: ["Node.js, Express.js, MongoDB, and PostgreSQL"]
-2025 Goals: ["Docker, React Native, Create 25+ Projects and learn at least 5-10 new Technologies."]
+currently_learning: ["Node.js, Express.js, MongoDB and React Native"]
+2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Traveling", "Cycling", "Learning New Technologies"]
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="width: 100%; display: block;"/>
 </p>
 
 ---
